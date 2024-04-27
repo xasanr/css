@@ -4,7 +4,7 @@
     font: 25px sans-serif;
 }
 
-body{
+body h1.h3{
     margin: 0;
 }
 .olma {
@@ -12,6 +12,9 @@ body{
     width: 70%;
     margin: o auto;
     width: 200px;
+}
+.clr{
+    clear: both;
 }
 .css{
     background-color: rgb(71, 187, 4);
@@ -103,3 +106,50 @@ width: 100%;
  .ggg textarea{
 
  }
+ .kichkina h3{
+    color: rgb(42, 21, 158);
+    border: 1.5px solid rgb(15, 3, 3);
+    
+
+ }
+
+
+ .kichkina{
+float: left;
+width: 33.3%;
+padding: 15px;
+margin: 20px;
+border: 3px solid rgb(19, 9, 9);
+color: red;
+
+ }
+ .AAA{
+    float: left;
+    width: 55%;
+background-color: rgb(255, 0, 149);
+color: black;
+border: 4px solid rgb(15, 3, 3);
+ }
+
+.qqq{
+    float: left;
+    width: 30%;
+    background-color: rgb(255, 0, 157);
+    color: rgb(20, 3, 3); 
+    margin: 22px;
+border: 5px solid rgb(15, 3, 3);;
+}
+
+.NNN{
+    position: relative;
+    width: 500px;
+    height: 330px;
+    background-image:url(photo_2024-04-27_18-18-38.jpg);
+    margin: 1px 0;
+    background-size: contain;
+}
+
+.NNN{
+   position: absolute;
+margin:  35px;
+}
